@@ -35,6 +35,5 @@ cd alnlp-const-parser
 git checkout --track origin/conparse
 // git status and confirm HEAD points to conparse branch
 
-git clone git@github.com:nitishgupta/constituency-parse-predictor.git my-const-parser
-
+pip install --editable .
 ```
